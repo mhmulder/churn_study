@@ -41,7 +41,7 @@ __Note:__ To follow along please open the jupyter notebook *mickeys_churn_notebo
 
 We found a gradient boosting tree method was the best model to use on this data. A full explanation on why can be found in the attached notebook, however the ROC plot below will give you a quick and dirty showing of how much better a GBC preformed compared to a basic logistic regression.
 
-![ROC Plot](ROC Plot.png)
+![ROC Plot](ROC_Plot.png)
 
 By looking at a feature or variable importance plot from the tree method we were able to discern which features where important
 
